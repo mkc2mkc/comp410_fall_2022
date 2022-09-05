@@ -5,8 +5,7 @@ def show_aggie_pride() -> list:
     slogan_list = ['Aggie Pride - Worldwide',
                    'Aggies Do!',
                    'Go Aggies', 
-                   'We are Aggies!',
-                   'Every Day The Aggie Way']
+                   'We are Aggies!']
 
     return slogan_list
 
